@@ -1,6 +1,6 @@
 { 
 "version":"1",
-"title":"initial release",
-"message":"initial release",
-"btnok":"Close"
+"title":"Maintenance break",
+"message":"Estimated time: . Please try again later",
+"btnok":"Try again"
 }
