@@ -1,8 +1,7 @@
 { 
-"version":"0.0.1",
+"version":"2",
 "title":"New Update Available",
 "message":"initial release",
 "btnok":"Download",
-"setCancelable":"false",
 "download":"https://google.com"
 }
